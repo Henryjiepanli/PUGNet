@@ -1,2 +1,2 @@
-# UGNet
-UGNet
+# PUGNet
+PUGNet
