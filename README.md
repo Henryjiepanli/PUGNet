@@ -1,5 +1,6 @@
 # PUGNet
 The official implement of 《Progressive Uncertainty Guided Network for Binary Segmentation》
+We will soon provide all the codes and the weights of the trained models
 
 ## Performance Comparison on COD Datasets
 ![COD](COD.png)
